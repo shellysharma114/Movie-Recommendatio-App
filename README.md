@@ -35,7 +35,7 @@ Therefore, larger k value means smother curves of separation resulting in less c
 
 1. Clone this repository to your local machine.
 2. Install all the libraries mentioned in the [requirements.txt](https://github.com/shellysharma114/Movie-Recommendation-App/blob/main/requirements.txt) file with the command `pip install -r requirements.txt`
-4. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python app.py`.
+4. Open your terminal/command prompt from your project directory and run the file `app.py` by executing the command `python app.py`.
 
 
 Thankyou for visiting!
