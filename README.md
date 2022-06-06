@@ -1,20 +1,21 @@
 # Movie Recommendation System
-  ## Frameworks and languages used 
+  ## Tools used 
 
 ![Python](https://img.shields.io/badge/Python-3.8-FFD59E)
-
 
 ![API](https://img.shields.io/badge/API-TMDB-7D1E6A)
 
 [![PyPI version shields.io](https://img.shields.io/pypi/v/trains-jupyter-plugin.svg)](https://img.shields.io/pypi/v/trains-jupyter-plugin.svg)
 
-This is a Movie Recommendation system based on similarity based filtering using cosine similarity .
+This is a Movie Recommendation system based on similarity based filtering using KNN Algorithm .
 
 I used **[tmdb movie data set](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)** 
 
 In this website, I have developed two types of recommendation engine one is based on the movies and other is based on the genre of movies.
-###Case-1: (Movie-based) First select movie-based option from the drop down menu. Then type or choose a movie name from the list of movies and it will provide the name  and if you tap on the movie name it will direct you to the imdb page of that movie. You can also choose the number of movies you want as recommnedation.
-###Case-3: (Genre-based) First select genre-based option from the drop down menu. Then choose the genres you want recommendations for(you can select multiple genres from the drop down menu). Then you can also filter your recommendations on the basis of imdb score.You can also choose the number of movies you want as recommnedation. It will provide the name  and if you tap on the movie name it will direct you to the imdb page of that movie.
+#### Case-1: 
+   (Movie-based) First select movie-based option from the drop down menu. Then type or choose a movie name from the list of movies and it will provide the name  and if you tap on the movie name it will direct you to the imdb page of that movie. You can also choose the number of movies you want as recommnedation.
+#### Case-3:
+   (Genre-based) First select genre-based option from the drop down menu. Then choose the genres you want recommendations for(you can select multiple genres from the drop down menu). Then you can also filter your recommendations on the basis of imdb score.You can also choose the number of movies you want as recommnedation. It will provide the name  and if you tap on the movie name it will direct you to the imdb page of that movie.
 
 NOTE: You will get minimum 5 movie recommendations and a maximum of 20 movie recommendations!
 
